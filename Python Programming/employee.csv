@@ -1,0 +1,15 @@
+EID,Employee Name,Gender,Salary,Date of Joining,Department
+E123D,Nitin Bhole,M,1900000,01-11-2016,Products
+E876G,Mayur Kulkarni,M,1200000,03-06-2016,Semantics
+E798G,Anurag Pandey,M,1200000,04-07-2016,IT
+E123B,Pankaj Bansal,M,900000,01-12-2015,Research
+E098Z,Rajendra Prabhu,M,1000000,11-11-2015,Semantics
+E294M,Sumanth Mishra,M,1800000,04-09-2017,Research
+E972L,Sai Bodha,M,1100000,11-11-2017,Semantics
+E184A,Kushmakar Krishna,M,1100000,01-01-2015,Products
+E104S,Amarnath Patil,M,600000,29-11-2015,Engineering
+E093V,Shashidhar Reddy,M,700000,29-11-2018,Engineering
+E983Q,Chakshu Bansal,F,300000,04-12-2017,Products
+E092E,Mitali Gupta,F,1600000,02-05-2019,Semantics
+E620Y,Kumar Abhishek,M,1100000,01-12-2014,Semantics
+E109U,Sanket Gibbidi,M,5000000,11-01-2019,Products
